@@ -11,7 +11,7 @@ import com.example.studentproject.entity.Student;
 @Repository
 public interface Courserepository extends MongoRepository<Course,String> {
 
-	List<Course> findByName(String courseName);
-	List<Course> findByCost(String courseCost);
+//	List<Course> findByName(String courseName);
+//	List<Course> findByCost(String courseCost);
 	
 }

@@ -22,7 +22,6 @@ public class Courseservice {
 	
 
 	public List<Course> getAllCourse() {
-		
 		return repo.findAll();
 	}
 }
