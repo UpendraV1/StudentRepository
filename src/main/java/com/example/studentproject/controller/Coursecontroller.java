@@ -31,10 +31,4 @@ public class Coursecontroller {
 		return service.getAllCourse();
 	}
 	
-	//this is trying to commt the code
-	//new commit
-	//
-	//
-	//new commit 2
-	
 }
